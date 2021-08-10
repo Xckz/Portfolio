@@ -1,0 +1,22 @@
+:root {
+    --seablue: rgb(117, 189, 231);
+}
+
+.portfolio-box {
+    border: 4px solid var(--seablue);
+    height: 180px;
+    width: 500px;
+    position: relative;
+}
+
+.box-label {
+    position: absolute;
+    bottom: 10px;
+    left: 0;
+    border: 4px solid var(--seablue);
+    background-color: var(--seablue);
+}
+
+div p {
+    font-size: 10px;
+}
