@@ -61,7 +61,7 @@ section {
     float: left;
     color: var(--darkblue);
     text-align: center;
-    padding: 10px 45px;
+    padding: 10px 34px;
     text-decoration: none;
 }
 
@@ -85,6 +85,7 @@ section {
     position: relative;
     margin: 0;
     top: -16px;
+    width: 100%;
 }
 
 .imgtext {
@@ -93,7 +94,7 @@ section {
     margin: 0 auto;
     left: auto;
     right: 55px;
-    top: 75%;
+    top: 40%;
     background: var(--seablue);
     color: var(--darkblue);
     font-size: 50px;
